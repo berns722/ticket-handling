@@ -1,0 +1,6 @@
+# Data
+data/
+
+# Power BI temp files
+*.pbix.bak
+~*.pbix
